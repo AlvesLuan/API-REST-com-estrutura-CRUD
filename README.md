@@ -1,8 +1,4 @@
 
-<h1 align="center">
-    <img src='https://ik.imagekit.io/AlvesLuan/upFlowHeader_B_WH3_wEV.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1664688649470'>
-</h1>
-
 <!-- Para melhor vizualização no Visual Studio Code, apertar Ctrl + Shift + V -->
 <!-- Para melhor vizualização no Visual Studio Code, apertar Ctrl + Shift + V -->
 <!-- Para melhor vizualização no Visual Studio Code, apertar Ctrl + Shift + V -->
