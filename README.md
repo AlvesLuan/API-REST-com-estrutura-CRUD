@@ -8,7 +8,7 @@
 
 <br />
 
-# Sistema de biblioteca RESTful e Consulta cotação do dollar.
+# Sistema de biblioteca REST e Consulta cotação do dollar.
 
 ## 📁**Para Execução:**
 
