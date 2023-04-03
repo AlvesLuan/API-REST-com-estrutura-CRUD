@@ -62,7 +62,6 @@ Utilizei o **Axios** para conectar o codigo com a API.
 <br />
 
 ## ✉️**Informações para contato:**
-+ ### 📞 **WhatsApp:** (31)98284-9919
 + ### 📩 **email:** luankauan10@gmail.com
 + ### **[LinkedIn](https://www.linkedin.com/in/luan-kauan-alves-31b057239/)**
 <h6 align="right"> qualquer duvida manda uma msg ;) </h6>
